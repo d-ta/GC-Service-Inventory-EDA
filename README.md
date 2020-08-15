@@ -11,7 +11,3 @@
 [Link](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) to a git command cheat sheet.
 
 
-Aaron was here. 
-
-
-Test pull requests
